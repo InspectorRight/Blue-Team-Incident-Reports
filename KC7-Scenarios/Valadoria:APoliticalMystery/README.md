@@ -1,5 +1,5 @@
 # Cloud Threat Hunting Report: Operation Valdorian Disruption
-**Lead Incident Analyst:** Nathan Lee Jennings
+**Lead Incident Analyst:** Nathan J
 **Platform Environment:** Azure Data Explorer (KQL Log Analytics)
 **Target Organisation:** The Valdorian Times
 
